@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loc</h1>
-<h3 align="center">Full-Stack Software Engineer · AI Builder</h3>
+<h3 align="center">Full-Stack Software Engineer · Product Builder</h3>
 
 - 🎓 4th-year Software Engineering student at **Metropolia University of Applied Sciences**
 - 🔭 Looking for a **full-stack software development** or **product builder** role where I can keep growing
