@@ -3,7 +3,7 @@
 
 - 🎓 4th-year Software Engineering student at **Metropolia University of Applied Sciences**
 - 🔭 Looking for a **full-stack software development** or **product builder** role where I can keep growing
-- 🛠️ Built **[AuditAsema](link)** from scratch to production: an audit web app that shows clients how to improve their performance instead of only flagging errors
+- 🛠️ Built **[AuditAsema](link)** from scratch to production: an audit web app that helps clients to improve their performance instead of only flagging errors
 - 🤖 I build and ship full-stack products, using AI to move fast
 - 📫 Reach me at [dangloc2407@gmail.com](mailto:dangloc2407@gmail.com)
 
