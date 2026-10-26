@@ -27,9 +27,11 @@
 
 
 ### AI Tools:
-<a href="https://claude.ai/"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /></a>
-<a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
-<a href="https://chatgpt.com/"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge" alt="ChatGPT" /></a>
+<a href="https://claude.ai/"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/claude-color.svg" width="48" height="48" alt="Claude" title="Claude" /></a>&nbsp;
+<a href="https://gemini.google.com/"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/gemini-color.svg" width="48" height="48" alt="Gemini" title="Gemini" /></a>&nbsp;
+<a href="https://chatgpt.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@2.5.0/dark/openai.png" /><img src="https://unpkg.com/@lobehub/icons-static-png@2.5.0/light/openai.png" width="48" height="48" alt="ChatGPT" title="ChatGPT" /></picture></a>&nbsp;
+<a href="https://antigravity.google/"><img src="https://unpkg.com/@lobehub/icons-static-svg@1.101.0/icons/antigravity-color.svg" width="48" height="48" alt="Antigravity" title="Antigravity" /></a>
+
 
 ---
 
